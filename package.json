@@ -12,6 +12,7 @@
   },
   "author": "Diego Souza",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/rowns07/bytebank/issues"
   },
