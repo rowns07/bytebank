@@ -1,0 +1,19 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowns07/bytebank.git"
+  },
+  "author": "Diego Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowns07/bytebank/issues"
+  },
+  "homepage": "https://github.com/rowns07/bytebank#readme"
+}
